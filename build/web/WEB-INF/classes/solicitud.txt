@@ -1,0 +1,2 @@
+1;1/7/2021;123123;Ingenieria;Trabajo de grados;Cuando son los trabajos de grado?;Pendiente
+2;1/7/2021;12345;Ingenieria;Homologacion;Cuando son las homologaciones de Calculo?;Contestada
